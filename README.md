@@ -8,7 +8,7 @@
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
 
-<img src = "https://github.com/hariomrajgor/SQL_Retail_Sales_P1/blob/43db35645025c9383a894f2444220ce0ac8e952e/Retail%20Sales%20Analysis.jpg" width = 400 height = 300>
+<img src = "https://github.com/hariomrajgor/SQL_Retail_Sales_P1/blob/43db35645025c9383a894f2444220ce0ac8e952e/Retail%20Sales%20Analysis.jpg" width = 500 height = 350>
 
 ## Objectives
 
